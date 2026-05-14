@@ -1,1 +1,1 @@
-# lab1-web-react
+# lab2-web-react
